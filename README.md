@@ -1,11 +1,11 @@
 <div align="center">
 
-  # Olá, eu sou o Adriel Furtado! 👋
+  # Olá, me chamo Adriel Furtado! 👋
   
   ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas (2º Período)
   
   <p>
-     Moro em <b>Campo Grande - RJ</b> e sou apaixonado pelo universo do desenvolvimento Frontend. <br>
+     Moro em <b>Campo Grande - RJ</b> e me identifico muito com o universo do desenvolvimento Frontend. <br>
      Atualmente estou aprofundando meus conhecimentos em tecnologias Web e começando a explorar o mundo de Desenvolvimento Web.
   </p>
 </div>
