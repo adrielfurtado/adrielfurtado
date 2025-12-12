@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="avatar.png" width="200" alt="Avatar Adriel Pixel Art" />
 
   # Olá, eu sou o Adriel Furtado! 👋
   
@@ -28,12 +29,14 @@
 
 <br>
 
-## ⚡ Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrielfurtado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielfurtado&layout=compact&theme=dracula"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=adrielfurtado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielfurtado&layout=compact&theme=dracula"/>
 </div>
+
+<br>
 
 ## 💻 Projetos em Destaque
 
@@ -56,7 +59,9 @@
 * **Stack Principal:** HTML, CSS, JavaScript
 * [Acessar Repositório](https://github.com/adrielfurtado/project_sheet_T20)
 
-### 🌐 Contato
+<br>
+
+## 🌐 Contato
 
 <div align="center">
   <a href="mailto:adriellfs02@hotmail.com">
