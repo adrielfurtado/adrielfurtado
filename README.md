@@ -1,6 +1,4 @@
 <div align="center">
-<img width="1024" height="1023" alt="logo eu pixel" src="https://github.com/user-attachments/assets/4094f5bc-2335-4cbe-ac95-440d5173ddf3" />
-
 
   # Olá, eu sou o Adriel Furtado! 👋
   
