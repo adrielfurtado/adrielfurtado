@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="avatar.png" width="200" alt="Avatar Adriel Pixel Art" />
 
   # Olá, eu sou o Adriel Furtado! 👋
   
