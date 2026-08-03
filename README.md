@@ -1,5 +1,5 @@
 <div align="center">
-
+  
   # Olá, me chamo Adriel Furtado! 👋
   
   ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º Período)
@@ -20,7 +20,10 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank">
   <br>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
+  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank">
+  <br>
   <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank">
@@ -41,13 +44,13 @@
 
 ### 📱 App Mobile - Resolve AI
 > Aplicativo com foco em soluções ágeis e integração mobile. O desenvolvimento explora conceitos arquiteturais, incluindo estratégias omnichannel e a dinâmica entre plataformas nativas e híbridas.
-* **Stack Principal:** JavaScript
+* **Stack Principal:** React Native (Expo), JSX, JavaScript
 * [Acessar Repositório](https://github.com/Juii-Cesar/App_mobile-ResolveAi)
 
 ---
 
 ### 🎲 Hexatombe VTT
-> Plataforma de Virtual Tabletop (VTT) desenvolvida para facilitar sessões de RPG online. Focada em otimizar a interação e a imersão.
+> Plataforma de Virtual Tabletop (VTT) desenvolvida para facilitar sessões de RPG online. Focada em otimizar a interação e a imersão tática durante as missões.
 * **Stack Principal:** JavaScript
 * [Acessar Repositório](https://github.com/adrielfurtado/hexatombe-vtt)
 
