@@ -2,7 +2,7 @@
 
   # Olá, me chamo Adriel Furtado! 👋
   
-  ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas (2º Período)
+  ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º Período)
   
   <p>
      Moro em <b>Campo Grande - RJ</b> e me identifico muito com o universo do desenvolvimento Frontend e Mobile. <br>
