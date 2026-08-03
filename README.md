@@ -1,12 +1,13 @@
 <div align="center">
+  <img src="avatar.png" width="200" alt="Avatar Adriel Pixel Art" />
 
   # Olá, me chamo Adriel Furtado! 👋
   
   ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas (2º Período)
   
   <p>
-     Moro em <b>Campo Grande - RJ</b> e me identifico muito com o universo do desenvolvimento Frontend. <br>
-     Atualmente estou aprofundando meus conhecimentos em tecnologias Web e começando a explorar o mundo de Desenvolvimento Web.
+     Moro em <b>Campo Grande - RJ</b> e me identifico muito com o universo do desenvolvimento Frontend e Mobile. <br>
+     Atualmente estou aprofundando meus conhecimentos em tecnologias Web e explorando a integração de aplicativos mobile, navegando entre soluções nativas e híbridas.
   </p>
 </div>
 
@@ -39,6 +40,20 @@
 
 ## 💻 Projetos em Destaque
 
+### 🎲 Hexatombe VTT
+> Plataforma de Virtual Tabletop (VTT) desenvolvida para facilitar sessões de RPG online. Focada em otimizar a interação e a imersão.
+* **Stack Principal:** JavaScript
+* [Acessar Repositório](https://github.com/adrielfurtado/hexatombe-vtt)
+
+---
+
+### 📱 App Mobile - Resolve AI
+> Aplicativo com foco em soluções ágeis e integração mobile. O desenvolvimento explora conceitos arquiteturais, incluindo estratégias omnichannel e a dinâmica entre plataformas nativas e híbridas.
+* **Stack Principal:** JavaScript
+* [Acessar Repositório](https://github.com/Juii-Cesar/App_mobile-ResolveAi)
+
+---
+
 ### 🍻 Gestão de Comércio de Bebidas
 > Sistema web desenvolvido para auxiliar no controle de estoque e fluxo de caixa de uma distribuidora de bebidas. Foca na organização de entrada e saída de produtos.
 * **Stack Principal:** PHP, HTML, CSS, JavaScript
@@ -50,13 +65,6 @@
 > Solução para clínicas veterinárias que permite o cadastro e gestão de tutores, pacientes (pets) e histórico de atendimentos, visando otimizar a rotina administrativa.
 * **Stack Principal:** PHP, HTML, CSS
 * [Acessar Repositório](https://github.com/adrielfurtado/clinica_vet)
-
----
-
-### ⚔️ Ficha de RPG - Tormenta 20
-> Ficha de personagem digital e interativa para o sistema de RPG Tormenta 20. O projeto automatiza cálculos de atributos e perícias, facilitando a experiência dos jogadores.
-* **Stack Principal:** HTML, CSS, JavaScript
-* [Acessar Repositório](https://github.com/adrielfurtado/project_sheet_T20)
 
 <br>
 
