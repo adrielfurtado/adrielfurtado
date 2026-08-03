@@ -31,25 +31,25 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=adrielfurtado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielfurtado&layout=compact&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adrielfurtado&show_icons=true&theme=dracula&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielfurtado&layout=compact&theme=dracula&hide_border=true" height="180" />
 </div>
 
 <br>
 
 ## 💻 Projetos em Destaque
 
-### 🎲 Hexatombe VTT
-> Plataforma de Virtual Tabletop (VTT) desenvolvida para facilitar sessões de RPG online. Focada em otimizar a interação e a imersão.
-* **Stack Principal:** JavaScript
-* [Acessar Repositório](https://github.com/adrielfurtado/hexatombe-vtt)
-
----
-
 ### 📱 App Mobile - Resolve AI
 > Aplicativo com foco em soluções ágeis e integração mobile. O desenvolvimento explora conceitos arquiteturais, incluindo estratégias omnichannel e a dinâmica entre plataformas nativas e híbridas.
 * **Stack Principal:** JavaScript
 * [Acessar Repositório](https://github.com/Juii-Cesar/App_mobile-ResolveAi)
+
+---
+
+### 🎲 Hexatombe VTT
+> Plataforma de Virtual Tabletop (VTT) desenvolvida para facilitar sessões de RPG online. Focada em otimizar a interação e a imersão.
+* **Stack Principal:** JavaScript
+* [Acessar Repositório](https://github.com/adrielfurtado/hexatombe-vtt)
 
 ---
 
