@@ -1,8 +1,9 @@
 <div align="center">
-  
+  <img src="avatar.png" width="200" alt="Avatar Adriel Pixel Art" />
+
   # Olá, me chamo Adriel Furtado! 👋
   
-  ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º Período)
+  ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas (2º Período)
   
   <p>
      Moro em <b>Campo Grande - RJ</b> e me identifico muito com o universo do desenvolvimento Frontend e Mobile. <br>
@@ -20,10 +21,12 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank">
   <br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
   <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" target="_blank">
   <br>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank">
@@ -42,31 +45,31 @@
 
 ## 💻 Projetos em Destaque
 
-### 📱 App Mobile - Resolve AI
-> Aplicativo com foco em soluções ágeis e integração mobile. O desenvolvimento explora conceitos arquiteturais, incluindo estratégias omnichannel e a dinâmica entre plataformas nativas e híbridas.
-* **Stack Principal:** React Native (Expo), JSX, JavaScript
-* [Acessar Repositório](https://github.com/Juii-Cesar/App_mobile-ResolveAi)
+### 🍣 Sistema de Delivery - Sushi
+> Aplicação web desenvolvida para um comércio local de sushi. Possui catálogo de produtos interativo, painel de administração e roteamento direto de pedidos e carrinho via WhatsApp.
+* **Stack Principal:** React, JavaScript
+* [📂 Acessar Repositório](https://github.com/Juii-Cesar/Cardapio-Digital) | [🌐 Visualizar Projeto Online](#) 
 
 ---
 
-### 🎲 Hexatombe VTT
-> Plataforma de Virtual Tabletop (VTT) desenvolvida para facilitar sessões de RPG online. Focada em otimizar a interação e a imersão tática durante as missões.
-* **Stack Principal:** JavaScript
-* [Acessar Repositório](https://github.com/adrielfurtado/hexatombe-vtt)
+### 📱 App Mobile - Resolve AI
+> Aplicativo com foco em conectar profissionais de serviço e clientes através de filtros de localização. O desenvolvimento explora estratégias omnichannel e a dinâmica entre plataformas híbridas.
+* **Stack Principal:** React Native (Expo), JSX, JavaScript, Supabase
+* [📂 Acessar Repositório](https://github.com/Juii-Cesar/App_mobile-ResolveAi)
 
 ---
 
 ### 🍻 Gestão de Comércio de Bebidas
 > Sistema web desenvolvido para auxiliar no controle de estoque e fluxo de caixa de uma distribuidora de bebidas. Foca na organização de entrada e saída de produtos.
 * **Stack Principal:** PHP, HTML, CSS, JavaScript
-* [Acessar Repositório](https://github.com/adrielfurtado/Projeto_Toca_das_bebidas)
+* [📂 Acessar Repositório](https://github.com/adrielfurtado/Projeto_Toca_das_bebidas)
 
 ---
 
 ### 🐾 Gerenciamento de Clínica Veterinária
 > Solução para clínicas veterinárias que permite o cadastro e gestão de tutores, pacientes (pets) e histórico de atendimentos, visando otimizar a rotina administrativa.
 * **Stack Principal:** PHP, HTML, CSS
-* [Acessar Repositório](https://github.com/adrielfurtado/clinica_vet)
+* [📂 Acessar Repositório](https://github.com/adrielfurtado/clinica_vet)
 
 <br>
 
